@@ -58,8 +58,3 @@ button:hover {
     padding: 10px;
     border-top: 1px solid #ced4da;
 }
-
-canvas {
-    margin-top: 20px;
-    border: 1px solid #ced4da;
-}
